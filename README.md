@@ -11,7 +11,7 @@
 <div align="center">
 
 🚀 Currently leveling up in **Spring Boot** — backends have never been this fun!  
-💬 Into **Flutter**, **Firebase**, or **Node.js**? Let’s connect — or [ask me anything here](https://github.com/salesp07/salesp07/issues)  
+💬 Into **Flutter**, **Firebase**, or **Node.js**? Let’s connect — or [ask me anything here](https://github.com/bangash-00/bangash-00/issues)  
 🎯 Always building, always learning, always shipping.  
 
 ⚡ Fun fact: **The first computer bug was a real moth — found in 1947 inside a Harvard computer! 🐛🖥️**
