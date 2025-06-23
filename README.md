@@ -10,18 +10,14 @@
 
 <div align="center">
 
-🚀 Currently diving deep into **Spring Boot** — loving the magic of powerful backends!  
-💬 Curious about **Flutter**, **Node.js**, or **Firebase**? Let's chat — or [drop a question here](https://github.com/salesp07/salesp07/issues)  
+🚀 Currently leveling up in **Spring Boot** — backends have never been this fun!  
+💬 Into **Flutter**, **Firebase**, or **Node.js**? Let’s connect — or [ask me anything here](https://github.com/salesp07/salesp07/issues)  
+🎯 Always building, always learning, always shipping.  
 
-🧰 **Here’s my tech toolbox:**  
-💡 Languages: **Dart**, **Java**, **Kotlin**, **Python**, **JavaScript**  
-📱 Mobile Magic: **Flutter**  
-🌐 Backend Brains: **Node.js**, **Spring Boot**  
-🗄️ Data Masters: **Firebase**, **PostgreSQL**, **mySql**, **MongoDB**
-
-⚡ Fun fact: **The cloaks in Game of Thrones were literally made from IKEA rugs 🧥🪑**
+⚡ Fun fact: **The first computer bug was a real moth — found in 1947 inside a Harvard computer! 🐛🖥️**
 
 </div>
+
 
 
 <div align="center"> 
