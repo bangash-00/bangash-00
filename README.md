@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=bangash-00.bangash-00" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=8000&lines=Hi+There!+👋;+I'm+Bilawal+Hussain!;+🚀+Software+Engineer;+🌱+Learning+Every+Day;+🤝+Collaborator;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=8000&lines=Hi+There!+👋;+I'm+Bilawal+Hussain!;+Software+Engineer+🚀;+🌱+Learning+Every+Day;+🤝+Collaborator;" />
 </h1>
 
 <h3 align="center">Coding the Future from Pakistan 🚀🇵🇰</h3>
